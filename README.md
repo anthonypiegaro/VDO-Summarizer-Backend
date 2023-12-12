@@ -1,6 +1,6 @@
-# Vdo-Summarizer-Backend
+# VDO-Summarizer-Backend
 ## Background Info
-Vdo Summarizer is a web app that creates Youtube video summaries for users.
+Vdo Summarizer is a web app that creates Youtube video summaries for users. This repo is for the backend. Go to the [VDO-Summarizer-Frontend](https://github.com/anthonypiegaro/VDO-Summarizer-Frontend) if you want the frontend for this web app.
 ### Features
 1. Youtube Video Summarization
 2. Past Summaries Archive
